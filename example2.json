@@ -1,0 +1,15 @@
+{
+"className" : "year 1",
+"description" : "class for year 1",
+"numberOfStudents" : 5,
+"groups" : [
+{
+"group":1,
+"students" : [
+{
+"name" : "student A",
+"needSupport": false
+},
+{
+"name" : "student B",
+"needSupport": true
